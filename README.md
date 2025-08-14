@@ -3,7 +3,7 @@
 
 💻 **Fullstack Developer | JavaScript & React Enthusiast**  
 🌱 Learning **React Native & Node.js**  
-📫 Contact: [Email](mailto:hamkaet@gmail.com) | [TikTok](https://www.tiktok.com/@hmkrch_)
+📫 Contact: hamkaet@gmail.com  
 
 ---
 
