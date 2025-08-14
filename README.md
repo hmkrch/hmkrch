@@ -1,4 +1,5 @@
-# Hi, I'm Hamka 👋
+# Hi, I'm Hamka Rachman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 💻 **Fullstack Developer | JavaScript & React Enthusiast**  
 🌱 Learning **React Native & Node.js**  
